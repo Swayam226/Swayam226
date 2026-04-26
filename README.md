@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Swayam Kumar</h1>
+<h1 align="left">Hi, I'm Swayam</h1>
 <h3 align="left">21, frontend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam226&label=Profile%20views&color=0e75b6&style=flat-square" alt="swayam226" /> </p>
@@ -13,7 +13,7 @@
 
 - 📄 If you're looking for CV [https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view](https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <!-- 🔗 Social Links -->
 <p align="left">
   <a href="https://twitter.com/swayamkumar_">
@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech I work with</h3>
 
 <!-- 🛠️ Skills Row 1 -->
 <h5>Languages</h5>
