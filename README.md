@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Swayam Kumar</h1>
-<h3 align="center">21, frontend engineer</h3>
+<h1 align="left">Hi, I'm Swayam Kumar</h1>
+<h3 align="left">21, frontend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam226&label=Profile%20views&color=0e75b6&style=flat-square" alt="swayam226" /> </p>
 
