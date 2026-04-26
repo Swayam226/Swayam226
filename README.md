@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Express.js, JWT, core backend**
 
-- 👯 I’m looking to collaborate on **full stack projs, SaaS applications**
+- 👯 Hit me up for any **full stack projs, SaaS applications** based opportunities
 
-- 👨‍💻 All of my projects are available at [https://www.swayamkr.dev](https://www.swayamkr.dev)
+- 👨‍💻 Projects can be found here [https://www.swayamkr.dev](https://www.swayamkr.dev)
 
-- 📫 How to reach me **swayamkumar226@gmail.com**
+- 📫 Shoot a mail **swayamkumar226@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view](https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view)
+- 📄 If you're looking for CV [https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view](https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view)
 
 <h3 align="left">Connect with me:</h3>
 <!-- 🔗 Social Links -->
