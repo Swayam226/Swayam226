@@ -11,7 +11,7 @@
 
 - Shoot a mail **swayamkumar226@gmail.com**
 
-- 📄 If you're looking for CV [https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view](https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view)
+- If you're looking for CV [https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view](https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view)
 
 <h3 align="left">Connect with me</h3>
 <!-- 🔗 Social Links -->
