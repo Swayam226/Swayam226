@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam226&label=Profile%20views&color=0e75b6&style=flat-square" alt="swayam226" /> </p>
 
-- 🌱 I’m currently learning **Express.js, JWT, core backend**
+- I’m currently learning **Express.js, JWT, core backend**
 
-- 👯 Hit me up for any **full stack projs, SaaS applications** based opportunities
+- Hit me up for any **full stack projs, SaaS applications** based opportunities
 
-- 👨‍💻 Projects can be found here [https://www.swayamkr.dev](https://www.swayamkr.dev)
+- Projects can be found here [https://www.swayamkr.dev](https://www.swayamkr.dev)
 
-- 📫 Shoot a mail **swayamkumar226@gmail.com**
+- Shoot a mail **swayamkumar226@gmail.com**
 
 - 📄 If you're looking for CV [https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view](https://drive.google.com/file/d/1Upi1RJG9Ae8saBYFlg9p9eBtaWc4qps2/view)
 
